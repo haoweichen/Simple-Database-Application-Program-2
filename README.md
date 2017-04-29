@@ -11,4 +11,10 @@ That is, no where clauses, no aggregate functions (e.g., avg, sum, count), etc.
 And, you cannot store the ‘sales’ table in memory.
 The following are sample report output (NOTE: the numbers shown below are not the actual aggregate values. You can write simple SQL queries to find the actual aggregate values).
 
-[image](https://github.com/haoweichen/Simple-Database-Application-Program-2/blob/master/DB_sample2.png)
+![image](https://github.com/haoweichen/Simple-Database-Application-Program-2/blob/master/DB_sample2.png)
+![image](https://github.com/haoweichen/Simple-Database-Application-Program-2/blob/master/DB_sample1.png)
+
+Make sure that:
+1. Character string data (e.g., customer name and product name) are left justified.
+2. Numeric data (e.g., Maximum/minimum Sales Quantities) are right justified.
+3. The Date fields are in the format of MM/DD/YYYY (i.e., 01/02/2002 instead of 1/1/2002).
