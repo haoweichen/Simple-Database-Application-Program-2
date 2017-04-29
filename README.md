@@ -11,4 +11,4 @@ That is, no where clauses, no aggregate functions (e.g., avg, sum, count), etc.
 And, you cannot store the ‘sales’ table in memory.
 The following are sample report output (NOTE: the numbers shown below are not the actual aggregate values. You can write simple SQL queries to find the actual aggregate values).
 
-![image](https://github.com/haoweichen/Simple-Database-Application-Program-2/blob/master/DB_sample1.png)
+![image](https://github.com/haoweichen/Simple-Database-Application-Program-2/blob/master/DB_sample2.png)
